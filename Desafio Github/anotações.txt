@@ -1,0 +1,2 @@
+Link de download do Git para windows: https://git-scm.com/download/win
+O Git Bash é um terminal maroto para utilizar o Git e se comunicar com o Github.
